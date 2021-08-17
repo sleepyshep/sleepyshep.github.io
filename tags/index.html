@@ -28,7 +28,7 @@
     <link rel="stylesheet" type="text/css" href="/css/matery.css">
     <link rel="stylesheet" type="text/css" href="/css/my.css">
     
-<!--     <style type="text/css">
+    <style type="text/css">
         
             
             code[class*="language-"],
@@ -37,7 +37,7 @@
             }
 
         
-    </style> -->
+    </style>
 
     <script src="https://libs.baidu.com/jquery/2.1.4/jquery.min.js"></script>
     <script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
@@ -837,16 +837,14 @@ $(function () {
             </script>
         
 
-        <!-- 在线聊天工具  洪卫 sleepyshep add 2019.09.11 -->
+        <!-- 在线聊天工具  洪卫 shw2018 add 2019.09.11 -->
         
             <script src="//code.tidio.co/52iol3ixgafkc5aheobwndbbgovkgy2c.js"></script>
-            <!--  在线聊天位置自定义  洪卫 sleepyshep add 2019.09.13  -->
+            <!--  在线聊天位置自定义  洪卫 shw2018 add 2019.09.13  -->
             <script> 
                 $(document).ready(function () {
-
                     setInterval(change_Tidio, 50);  
                     function change_Tidio() { 
-
                         var tidio=$("#tidio-chat iframe");
                         if(tidio.css("display")=="block"&& $(window).width()>977 ){
                             document.getElementById("tidio-chat-iframe").style.bottom= ($("div#backTop.top-scroll").css("display")=="none" &&$(window).width()>977)>0? "-40px" : ($("div.toc-title").length&&$(window).width()>977)>0?"80px":"20px";   
@@ -863,7 +861,6 @@ $(function () {
                             document.getElementById("tidio-chat-iframe").style.bottom= ($("div#backTop.top-scroll").css("display")=="none" && $(window).width()<601)>0? "-10px":"45px" ;   
                             document.getElementById("tidio-chat-iframe").style.zIndex="997";
                         }
-
                         if( tidio.css("display")=="block"&&$(window).width()<601 && parseInt(tidio.css("height"))>=230){
                             document.getElementById("tidio-chat-iframe").style.zIndex="998";
                         }
@@ -895,7 +892,7 @@ $(function () {
             </script>
         
 
-    <script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","tagMode":false,"log":false,"model":{"jsonPath":"/live2dw/assets/wanko.model.json"},"display":{"position":"left","width":150,"height":300},"mobile":{"show":false},"react":{"opacity":0.7}});</script><script>
+    <script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","tagMode":false,"log":false,"model":{"jsonPath":"/live2dw/assets/wanko.model.json"},"display":{"position":"left","width":150,"height":500},"mobile":{"show":false},"react":{"opacity":0.7}});</script><script>
             window.imageLazyLoadSetting = {
                 isSPA: false,
                 preloadRatio: 1,

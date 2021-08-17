@@ -29,7 +29,7 @@
     <link rel="stylesheet" type="text/css" href="/css/matery.css">
     <link rel="stylesheet" type="text/css" href="/css/my.css">
     
-<!--     <style type="text/css">
+    <style type="text/css">
         
             
             code[class*="language-"],
@@ -38,7 +38,7 @@
             }
 
         
-    </style> -->
+    </style>
 
     <script src="https://libs.baidu.com/jquery/2.1.4/jquery.min.js"></script>
     <script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
@@ -738,7 +738,7 @@
                 <h1 id="效果演示"><a href="#效果演示" class="headerlink" title="效果演示"></a>效果演示</h1><p><img src="https://cdn.jsdelivr.net/gh/sleepyshep/cdn@1.0/sakura/img/loader/orange.progress-bar-stripe-loader.svg" data-original="https://raw.githubusercontent.com/sleepyshep/cdn/master/blog_files/img/Blog-Open-Source/blog-demo1.gif" alt="演示Demo"></p>
 <h1 id="简短介绍"><a href="#简短介绍" class="headerlink" title="简短介绍"></a>简短介绍</h1><p>倒腾了一两周总算把个人博客网站完善了，目前这个版本使用应该是够了，当然还有一些优化项和功能增加后续在慢慢更新，为了回馈开源，今天准备把我自己修改完善的<code>blog</code>网站源代码开源。这不是生成后的网页文件，是您可以直接使用的源码，您只需要把博客相关信息换成您自己的就可以部署了，对于新手或者不懂编程的小伙伴来说，简直是福音，极大简化了您构建博客的工作量和复杂度，每个人都可以下载并修改成自己喜欢样式！如果你有修改想法，欢迎PR！最后，我们还是给这个开源小项目取个名字吧，就叫<a target="_blank" rel="noopener" href="https://github.com/sleepyshep/hexo-blog-fly.git">hexo-blog-fly</a>吧，怎么样？&lt;&lt;&lt;&lt;&lt;<a target="_blank" rel="noopener" href="https://github.com/sleepyshep/hexo-blog-fly">源代码下载</a>&gt;&gt;&gt;&gt;&gt;  </p>
 <p><span class="github-emoji"><span>😄</span><img src="https://cdn.jsdelivr.net/gh/sleepyshep/cdn@1.0/sakura/img/loader/orange.progress-bar-stripe-loader.svg" data-original="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span></p>
-<p>本博客基于<code>Hexo</code>框架搭建，用到<a target="_blank" rel="noopener" href="https://github.com/sleepyshep/hexo-theme-matery">hexo-theme-matery</a>主题, 并在此基础之上做了很多修改，修复了一些bug，增加了一些新的特性和功能，博客地址：<a href="https://sleepyshep.github.io/">https://sleepyshep.github.io</a>，博客演示：<a target="_blank" rel="noopener" href="https://sunhwee.com/">sunhwee.com</a>。</p>
+<p>本博客基于<code>Hexo</code>框架搭建，用到<a target="_blank" rel="noopener" href="https://github.com/sleepyshep/hexo-theme-matery">hexo-theme-matery</a>主题, 并在此基础之上做了很多修改，修复了一些bug，增加了一些新的特性和功能，博客地址：<a target="_blank" rel="noopener" href="https://sleepyshep.github.io/">https://sleepyshep.github.io</a>，博客演示：<a target="_blank" rel="noopener" href="https://sunhwee.com/">sunhwee.com</a>。</p>
 <hr>
 <h2 id="特性"><a href="#特性" class="headerlink" title="特性"></a>特性</h2><p><strong>原主题特性</strong>:</p>
 <ul>
@@ -954,7 +954,7 @@
                     <span class="reprint1-tip">
                         <i class="fa fa-exclamation-circle"></i>&nbsp;&nbsp;转载请注明:
                     </span>
-                    <a href="https://sleepyshep.github.io" class="b-link-green">Sleepyshep</a>
+                    <a href="https://sleepyshep.gitee.io" class="b-link-green">Sleepyshep</a>
                     <i class="fa fa-angle-right fa-lg fa-fw text-color"></i>
                     <a href="/2021/08/13/blog-open-source/" class="b-link-green">博客开源</a>
                 </p>
@@ -1726,16 +1726,14 @@ $(function () {
             </script>
         
 
-        <!-- 在线聊天工具  洪卫 sleepyshep add 2019.09.11 -->
+        <!-- 在线聊天工具  洪卫 shw2018 add 2019.09.11 -->
         
             <script src="//code.tidio.co/52iol3ixgafkc5aheobwndbbgovkgy2c.js"></script>
-            <!--  在线聊天位置自定义  洪卫 sleepyshep add 2019.09.13  -->
+            <!--  在线聊天位置自定义  洪卫 shw2018 add 2019.09.13  -->
             <script> 
                 $(document).ready(function () {
-
                     setInterval(change_Tidio, 50);  
                     function change_Tidio() { 
-
                         var tidio=$("#tidio-chat iframe");
                         if(tidio.css("display")=="block"&& $(window).width()>977 ){
                             document.getElementById("tidio-chat-iframe").style.bottom= ($("div#backTop.top-scroll").css("display")=="none" &&$(window).width()>977)>0? "-40px" : ($("div.toc-title").length&&$(window).width()>977)>0?"80px":"20px";   
@@ -1752,7 +1750,6 @@ $(function () {
                             document.getElementById("tidio-chat-iframe").style.bottom= ($("div#backTop.top-scroll").css("display")=="none" && $(window).width()<601)>0? "-10px":"45px" ;   
                             document.getElementById("tidio-chat-iframe").style.zIndex="997";
                         }
-
                         if( tidio.css("display")=="block"&&$(window).width()<601 && parseInt(tidio.css("height"))>=230){
                             document.getElementById("tidio-chat-iframe").style.zIndex="998";
                         }
@@ -1784,7 +1781,7 @@ $(function () {
             </script>
         
 
-    <script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","tagMode":false,"log":false,"model":{"jsonPath":"/live2dw/assets/wanko.model.json"},"display":{"position":"left","width":150,"height":300},"mobile":{"show":false},"react":{"opacity":0.7}});</script><script>
+    <script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","tagMode":false,"log":false,"model":{"jsonPath":"/live2dw/assets/wanko.model.json"},"display":{"position":"left","width":150,"height":500},"mobile":{"show":false},"react":{"opacity":0.7}});</script><script>
             window.imageLazyLoadSetting = {
                 isSPA: false,
                 preloadRatio: 1,
