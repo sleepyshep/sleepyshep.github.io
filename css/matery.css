@@ -27,7 +27,9 @@
     }
 }
 
+/* 背景图片 sleepyshep add 2021.08.19 */
 body {
+    background:url(/medias/background.png);
     background-color: #eaeaea;
     margin: 0;
     color: #34495e;
@@ -2073,3 +2075,5 @@ footer .copy-right {
     color: #FFF;
     background: rgba(0, 0, 0, .1);
 }
+
+
