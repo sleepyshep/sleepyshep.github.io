@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Sleepyshep</title>
   
-  <subtitle>Sleepyshep</subtitle>
+  <subtitle>日暮里</subtitle>
   <link href="https://sleepyshep.gitee.io/atom.xml" rel="self"/>
   
   <link href="https://sleepyshep.gitee.io/"/>
-  <updated>2021-08-18T09:03:41.043Z</updated>
+  <updated>2021-08-19T11:20:59.566Z</updated>
   <id>https://sleepyshep.gitee.io/</id>
   
   <author>
@@ -17,24 +17,24 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>博客开源</title>
+    <title>个人博客搭建</title>
     <link href="https://sleepyshep.gitee.io/posts/be38.html"/>
     <id>https://sleepyshep.gitee.io/posts/be38.html</id>
-    <published>2021-08-13T03:41:03.000Z</published>
-    <updated>2021-08-18T09:03:41.043Z</updated>
+    <published>2021-08-19T09:35:03.000Z</published>
+    <updated>2021-08-19T11:20:59.566Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;效果演示&quot;&gt;&lt;a href=&quot;#效果演示&quot; class=&quot;headerlink&quot; title=&quot;效果演示&quot;&gt;&lt;/a&gt;效果演示&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
+    <summary type="html">&lt;h1 id=&quot;写在前面&quot;&gt;&lt;a href=&quot;#写在前面&quot; class=&quot;headerlink&quot; title=&quot;写在前面&quot;&gt;&lt;/a&gt;写在前面&lt;/h1&gt;&lt;p&gt;</summary>
         
       
     
     
     
-    <category term="软件安装与配置" scheme="https://sleepyshep.gitee.io/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/"/>
+    <category term="hexo" scheme="https://sleepyshep.gitee.io/categories/hexo/"/>
     
     
     <category term="Hexo" scheme="https://sleepyshep.gitee.io/tags/Hexo/"/>
@@ -50,14 +50,17 @@
     <link href="https://sleepyshep.gitee.io/posts/3eeb.html"/>
     <id>https://sleepyshep.gitee.io/posts/3eeb.html</id>
     <published>2021-08-08T03:41:03.000Z</published>
-    <updated>2021-08-18T09:03:41.046Z</updated>
+    <updated>2021-08-19T11:06:06.537Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;这是&lt;code&gt;hexo&lt;/code&gt;自带的一篇文章，暂且把它留在这吧，以纪念我&lt;code&gt;hexo&lt;/code&gt;征程的开始&lt;/strong&gt;  &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Welcome to &lt;a</summary>
         
       
     
