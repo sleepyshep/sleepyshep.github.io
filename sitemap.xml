@@ -2,9 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://sleepyshep.gitee.io/2021/08/11/hello-world/</loc>
+    <loc>https://sleepyshep.gitee.io/movies/index.html</loc>
     
-    <lastmod>2021-08-16</lastmod>
+    <lastmod>2021-08-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://sleepyshep.gitee.io/musics/index.html</loc>
+    
+    <lastmod>2021-08-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://sleepyshep.gitee.io/posts/3eeb.html</loc>
+    
+    <lastmod>2021-08-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://sleepyshep.gitee.io/posts/be38.html</loc>
+    
+    <lastmod>2021-08-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://sleepyshep.gitee.io/404.html</loc>
+    
+    <lastmod>2021-08-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://sleepyshep.gitee.io/books/index.html</loc>
+    
+    <lastmod>2021-08-17</lastmod>
     
   </url>
   
@@ -44,30 +79,9 @@
   </url>
   
   <url>
-    <loc>https://sleepyshep.gitee.io/2021/08/13/blog-open-source/</loc>
-    
-    <lastmod>2021-08-14</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://sleepyshep.gitee.io/contact/index.html</loc>
     
     <lastmod>2021-08-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://sleepyshep.gitee.io/List/index.html</loc>
-    
-    <lastmod>2021-08-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://sleepyshep.gitee.io/404.html</loc>
-    
-    <lastmod>2021-08-12</lastmod>
     
   </url>
   
@@ -100,14 +114,14 @@
   </url>
   
   <url>
-    <loc>https://sleepyshep.gitee.io/friends/index.html</loc>
+    <loc>https://sleepyshep.gitee.io/tags/index.html</loc>
     
     <lastmod>2020-07-01</lastmod>
     
   </url>
   
   <url>
-    <loc>https://sleepyshep.gitee.io/tags/index.html</loc>
+    <loc>https://sleepyshep.gitee.io/friends/index.html</loc>
     
     <lastmod>2020-07-01</lastmod>
     
@@ -116,7 +130,7 @@
 
   <url>
     <loc>https://sleepyshep.gitee.io/</loc>
-    <lastmod>2021-08-17</lastmod>
+    <lastmod>2021-08-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -124,21 +138,21 @@
   
   <url>
     <loc>https://sleepyshep.gitee.io/tags/Hexo/</loc>
-    <lastmod>2021-08-17</lastmod>
+    <lastmod>2021-08-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://sleepyshep.gitee.io/tags/Github/</loc>
-    <lastmod>2021-08-17</lastmod>
+    <lastmod>2021-08-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://sleepyshep.gitee.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2021-08-17</lastmod>
+    <lastmod>2021-08-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -147,14 +161,14 @@
   
   <url>
     <loc>https://sleepyshep.gitee.io/categories/Hexo/</loc>
-    <lastmod>2021-08-17</lastmod>
+    <lastmod>2021-08-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://sleepyshep.gitee.io/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/</loc>
-    <lastmod>2021-08-17</lastmod>
+    <lastmod>2021-08-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

@@ -57,3 +57,19 @@
         transform: translate(0, 0.5px) rotate(1.5deg);
     }
 }
+
+*{
+    cursor: url("/medias/cursor4.ico"),auto!important;
+}
+:active{
+    cursor: url("/medias/cursor4.ico"),auto!important;
+}
+
+@font-face{
+    font-family: '1';
+    src: url('../font/1.ttf');
+}
+
+body{
+    font-family: '1';
+}
