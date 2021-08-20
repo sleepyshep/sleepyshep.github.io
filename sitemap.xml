@@ -114,14 +114,14 @@
   </url>
   
   <url>
-    <loc>https://sleepyshep.gitee.io/galleries/index.html</loc>
+    <loc>https://sleepyshep.gitee.io/tags/index.html</loc>
     
     <lastmod>2020-07-01</lastmod>
     
   </url>
   
   <url>
-    <loc>https://sleepyshep.gitee.io/tags/index.html</loc>
+    <loc>https://sleepyshep.gitee.io/galleries/index.html</loc>
     
     <lastmod>2020-07-01</lastmod>
     
@@ -160,14 +160,14 @@
 
   
   <url>
-    <loc>https://sleepyshep.gitee.io/categories/Hexo/</loc>
+    <loc>https://sleepyshep.gitee.io/categories/hexo/</loc>
     <lastmod>2021-08-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://sleepyshep.gitee.io/categories/hexo/</loc>
+    <loc>https://sleepyshep.gitee.io/categories/Hexo/</loc>
     <lastmod>2021-08-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
