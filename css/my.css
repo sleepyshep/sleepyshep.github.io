@@ -59,10 +59,10 @@
 }
 
 *{
-    cursor: url("/medias/cursor4.ico"),auto!important;
+    cursor: url("/medias/cursor.ico"),auto!important;
 }
 :active{
-    cursor: url("/medias/cursor4.ico"),auto!important;
+    cursor: url("/medias/cursor.ico"),auto!important;
 }
 
 @font-face{
