@@ -1062,7 +1062,7 @@ article .article-tags .chip {
 }
 
 /*下面连着三段是老版reprint样式*/
-/* #artDetail .reprint1 {
+#artDetail .reprint1 {
     margin: 15px 0 5px 0;
 }
 
@@ -1076,10 +1076,10 @@ article .article-tags .chip {
     font-size: 1.05rem;
     color: #42b983;
     font-weight: 500;
-} */
+}
 
 /*下面连着三段是reprint-statement样式*/
-/* #artDetail .reprint {
+#artDetail .reprint {
     margin: 15px 0 5px 0;
 }
 
@@ -1093,30 +1093,7 @@ article .article-tags .chip {
     font-size: 1.05rem;
     color: #42b983;
     font-weight: 500;
-} */
-
-#artDetail .reprint {
-    margin: 15px 0 0.4rem;
-    padding: 0.5rem 0.8rem;
-    border: 1px solid #eee;
-    line-height: 2;
-    transition: box-shadow 0.3s ease-in-out
 }
-
-#artDetail .reprint-info {
-    word-break: break-word;
-}
-
-#artDetail .reprint:hover {
-    box-shadow: 0 0 10px 0 rgba(232, 237, 250, .6), 0 4px 8px 0 rgba(232, 237, 250, .5)
-}
-
-#artDetail .reprint a {
-    font-size: 1.05rem;
-    color: #42b983;
-    font-weight: 500;
-}
-
 
 #articleContent p {
     margin: 2px 2px 10px;
