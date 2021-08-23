@@ -100,13 +100,6 @@
   </url>
   
   <url>
-    <loc>https://sleepyshep.gitee.io/archives/index.html</loc>
-    
-    <lastmod>2020-07-01</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://sleepyshep.gitee.io/categories/index.html</loc>
     
     <lastmod>2020-07-01</lastmod>
@@ -114,7 +107,7 @@
   </url>
   
   <url>
-    <loc>https://sleepyshep.gitee.io/galleries/index.html</loc>
+    <loc>https://sleepyshep.gitee.io/archives/index.html</loc>
     
     <lastmod>2020-07-01</lastmod>
     
@@ -122,6 +115,13 @@
   
   <url>
     <loc>https://sleepyshep.gitee.io/tags/index.html</loc>
+    
+    <lastmod>2020-07-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://sleepyshep.gitee.io/galleries/index.html</loc>
     
     <lastmod>2020-07-01</lastmod>
     
