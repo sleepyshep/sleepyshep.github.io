@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sleepyshep.gitee.io/posts/d52.html</loc>
+    
+    <lastmod>2021-09-01</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://sleepyshep.gitee.io/contact/index.html</loc>
     
     <lastmod>2021-08-23</lastmod>
@@ -100,14 +107,14 @@
   </url>
   
   <url>
-    <loc>https://sleepyshep.gitee.io/categories/index.html</loc>
+    <loc>https://sleepyshep.gitee.io/archives/index.html</loc>
     
     <lastmod>2020-07-01</lastmod>
     
   </url>
   
   <url>
-    <loc>https://sleepyshep.gitee.io/archives/index.html</loc>
+    <loc>https://sleepyshep.gitee.io/categories/index.html</loc>
     
     <lastmod>2020-07-01</lastmod>
     
@@ -130,7 +137,7 @@
 
   <url>
     <loc>https://sleepyshep.gitee.io/</loc>
-    <lastmod>2021-08-23</lastmod>
+    <lastmod>2021-09-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -138,21 +145,21 @@
   
   <url>
     <loc>https://sleepyshep.gitee.io/tags/Hexo/</loc>
-    <lastmod>2021-08-23</lastmod>
+    <lastmod>2021-09-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://sleepyshep.gitee.io/tags/Github/</loc>
-    <lastmod>2021-08-23</lastmod>
+    <lastmod>2021-09-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://sleepyshep.gitee.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2021-08-23</lastmod>
+    <lastmod>2021-09-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -161,14 +168,14 @@
   
   <url>
     <loc>https://sleepyshep.gitee.io/categories/hexo/</loc>
-    <lastmod>2021-08-23</lastmod>
+    <lastmod>2021-09-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://sleepyshep.gitee.io/categories/Hexo/</loc>
-    <lastmod>2021-08-23</lastmod>
+    <lastmod>2021-09-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
