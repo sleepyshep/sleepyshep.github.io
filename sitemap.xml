@@ -114,14 +114,14 @@
   </url>
   
   <url>
-    <loc>https://xuzheng.link/galleries/index.html</loc>
+    <loc>https://xuzheng.link/tags/index.html</loc>
     
     <lastmod>2020-07-01</lastmod>
     
   </url>
   
   <url>
-    <loc>https://xuzheng.link/tags/index.html</loc>
+    <loc>https://xuzheng.link/galleries/index.html</loc>
     
     <lastmod>2020-07-01</lastmod>
     
@@ -130,7 +130,7 @@
 
   <url>
     <loc>https://xuzheng.link/</loc>
-    <lastmod>2022-03-25</lastmod>
+    <lastmod>2022-03-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -138,21 +138,21 @@
   
   <url>
     <loc>https://xuzheng.link/tags/Hexo/</loc>
-    <lastmod>2022-03-25</lastmod>
+    <lastmod>2022-03-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xuzheng.link/tags/Github/</loc>
-    <lastmod>2022-03-25</lastmod>
+    <lastmod>2022-03-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xuzheng.link/tags/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2022-03-25</lastmod>
+    <lastmod>2022-03-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -160,15 +160,15 @@
 
   
   <url>
-    <loc>https://xuzheng.link/categories/Hexo/</loc>
-    <lastmod>2022-03-25</lastmod>
+    <loc>https://xuzheng.link/categories/hexo/</loc>
+    <lastmod>2022-03-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://xuzheng.link/categories/hexo/</loc>
-    <lastmod>2022-03-25</lastmod>
+    <loc>https://xuzheng.link/categories/Hexo/</loc>
+    <lastmod>2022-03-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
