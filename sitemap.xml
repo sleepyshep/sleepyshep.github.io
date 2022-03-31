@@ -93,14 +93,14 @@
   </url>
   
   <url>
-    <loc>https://xuzheng.link/AV/index.html</loc>
+    <loc>https://xuzheng.link/archives/index.html</loc>
     
     <lastmod>2020-07-01</lastmod>
     
   </url>
   
   <url>
-    <loc>https://xuzheng.link/archives/index.html</loc>
+    <loc>https://xuzheng.link/AV/index.html</loc>
     
     <lastmod>2020-07-01</lastmod>
     
@@ -160,14 +160,14 @@
 
   
   <url>
-    <loc>https://xuzheng.link/categories/hexo/</loc>
+    <loc>https://xuzheng.link/categories/Hexo/</loc>
     <lastmod>2022-03-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://xuzheng.link/categories/Hexo/</loc>
+    <loc>https://xuzheng.link/categories/hexo/</loc>
     <lastmod>2022-03-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
