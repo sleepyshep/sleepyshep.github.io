@@ -3,11 +3,11 @@
   <title>Sleepyshep</title>
   
   <subtitle>日暮里</subtitle>
-  <link href="https://xuzheng.link/atom.xml" rel="self"/>
+  <link href="http://example.com/atom.xml" rel="self"/>
   
-  <link href="https://xuzheng.link/"/>
+  <link href="http://example.com/"/>
   <updated>2021-10-17T04:25:56.497Z</updated>
-  <id>https://xuzheng.link/</id>
+  <id>http://example.com/</id>
   
   <author>
     <name>Sleepyshep</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>个人博客搭建</title>
-    <link href="https://xuzheng.link/posts/be38.html"/>
-    <id>https://xuzheng.link/posts/be38.html</id>
+    <link href="http://example.com/posts/be38.html"/>
+    <id>http://example.com/posts/be38.html</id>
     <published>2021-09-19T09:35:03.000Z</published>
     <updated>2021-10-17T04:25:56.497Z</updated>
     
@@ -34,21 +34,21 @@
     
     
     
-    <category term="hexo" scheme="https://xuzheng.link/categories/hexo/"/>
+    <category term="hexo" scheme="http://example.com/categories/hexo/"/>
     
     
-    <category term="Hexo" scheme="https://xuzheng.link/tags/Hexo/"/>
+    <category term="Hexo" scheme="http://example.com/tags/Hexo/"/>
     
-    <category term="Github" scheme="https://xuzheng.link/tags/Github/"/>
+    <category term="Github" scheme="http://example.com/tags/Github/"/>
     
-    <category term="博客" scheme="https://xuzheng.link/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://xuzheng.link/posts/3eeb.html"/>
-    <id>https://xuzheng.link/posts/3eeb.html</id>
+    <link href="http://example.com/posts/3eeb.html"/>
+    <id>http://example.com/posts/3eeb.html</id>
     <published>2021-09-10T03:41:03.000Z</published>
     <updated>2021-10-06T14:24:53.679Z</updated>
     
@@ -66,10 +66,10 @@
     
     
     
-    <category term="Hexo" scheme="https://xuzheng.link/categories/Hexo/"/>
+    <category term="Hexo" scheme="http://example.com/categories/Hexo/"/>
     
     
-    <category term="Hexo" scheme="https://xuzheng.link/tags/Hexo/"/>
+    <category term="Hexo" scheme="http://example.com/tags/Hexo/"/>
     
   </entry>
   
